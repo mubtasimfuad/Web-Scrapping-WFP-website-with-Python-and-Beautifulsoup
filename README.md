@@ -10,7 +10,8 @@ Source URL: https://www.wfp.org/
 5.	While, the files(e.g. country_name_details.txt, country_name_projects.txt) were being saved in the respective folder(e.g. country_name) 
 6.	Then tried to demonstrate the relation between  Population VS Poverty and the output of Linear regression prediction model .
 7.	But the degree of variations in the data was not feasible with the LR model. So, I applied the polynomial regression on it and it works better.
-8.	Then, I considered the data table to demonstrate the relation between Population VS the ratio of  Stunted Children and the Prediction model by applying Linear regression on it 9.	But the degree of variations in the data was not feasible again with the LR model. So, I applied the polynomial regression on it and it works better.
+8.	Then, I considered the data table to demonstrate the relation between Population VS the ratio of  Stunted Children and the Prediction model by applying Linear regression on it 
+9.	But the degree of variations in the data was not feasible again with the LR model. So, I applied the polynomial regression on it and it works better.
  
 
 ## <font color='#BC4A3C'> Key Findings </font>  
